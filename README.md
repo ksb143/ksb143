@@ -1,4 +1,4 @@
-<a href="https://www.ssafy.com/" target="_blank"><img src="https://img.shields.io/badge/SSAFY-#6dcef5?style=flat&logo=samsung&logoColor=ffffff"/></a>
+<a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank"><img src="https://img.shields.io/badge/SSAFY-6dcef5?style=flat-square&logo=samsung&logoColor=293c47"/></a>
 <a href="https://ksb143.notion.site/Meluna-Blog-f0bc25d15bf84a2aab97d86980b2b627?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat-square&logo=notion&logoColor=000000"/></a>
 <a href="https://subnitta.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f75748?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
