@@ -7,7 +7,7 @@ I can use JavaScript and Python languages. And I worked on a project using Vue, 
 I'm currently studying the Java language and the Spring framework.
 
 I like singing and watching webtoons. And I like bread, so I usually go on a cafe tour during my break. 🥐🥖
-I dream of becoming a full-stack developer! Come on
+I dream of becoming a full-stack developer!
 
 ### 💪 Skills
 #### Platforms & Languages
