@@ -2,12 +2,12 @@
 <a href="https://ksb143.notion.site/Meluna-Blog-f0bc25d15bf84a2aab97d86980b2b627?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat-square&logo=notion&logoColor=000000"/></a>
 <a href="https://subnitta.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-f75748?style=flat-square&logo=tistory&logoColor=ffffff"/></a>
 
-👋 Hello! My name is Subin Kim, I live in Korea.
+👋 Hello! My name is Subin Kim, I live in Korea. 🇰🇷
 I can use JavaScript and Python languages. And I worked on a project using Vue, Django framework, and React library.
 I'm currently studying the Java language and the Spring framework.
 
 I like singing and watching webtoons. And I like bread, so I usually go on a cafe tour during my break. 🥐🥖
-I dream of becoming a full-stack developer!
+I dream of becoming a full-stack developer! 
 
 ### 💪 Skills
 #### Platforms & Languages
