@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subin's%20GitHub&fontSize=90&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subin's%20GitHub&fontSize=70&fontAlign=70)
 
 
 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank"><img src="https://img.shields.io/badge/SSAFY-6dcef5?style=flat&logo=samsung&logoColor=293c47"/></a>
