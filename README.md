@@ -25,7 +25,7 @@ I dream of becoming a full-stack developer!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksb143&show_icons=true&theme=flag-india)
 
 ###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksb143a&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksb143&layout=donut-vertical)
 
 <!--
 **ksb143/ksb143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
