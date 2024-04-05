@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subin's%20GitHub&fontSize=60&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbit&pause=1000&color=AD6DF7&random=false&width=435&lines=%ED%83%90%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%88%98%EB%B9%88%EB%8B%98%EC%9D%98+%EA%B9%83+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%A7%90;%EC%A7%B1+%EB%A9%8B%EC%A7%84+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EB%8A%94+%EA%B7%B8+%EB%82%A0%EA%B9%8C%EC%A7%80+%EB%8B%AC%EB%A6%BD%EB%8B%88%EB%8B%A4+%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbit&pause=1000&color=F79D28&random=false&width=435&lines=%ED%83%90%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%88%98%EB%B9%88%EB%8B%98%EC%9D%98+%EA%B9%83+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%A7%90;%EC%A7%B1+%EB%A9%8B%EC%A7%84+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EB%8A%94+%EA%B7%B8+%EB%82%A0%EA%B9%8C%EC%A7%80+%EB%8B%AC%EB%A6%BD%EB%8B%88%EB%8B%A4+%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
 <a href="https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp" target="_blank"><img src="https://img.shields.io/badge/SSAFY-6dcef5?style=flat&logo=samsung&logoColor=293c47"/></a>
 <a href="https://ksb143.notion.site/Meluna-Blog-f0bc25d15bf84a2aab97d86980b2b627?pvs=74" target="_blank"><img src="https://img.shields.io/badge/Notion-282828?style=flat&logo=notion&logoColor=ffffff"/></a>
@@ -23,6 +23,9 @@ I dream of becoming a full-stack developer!
 
 ### 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksb143&show_icons=true&theme=flag-india)
+
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksb143a&layout=donut-vertical)
 
 <!--
 **ksb143/ksb143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
