@@ -22,7 +22,7 @@ I dream of becoming a full-stack developer!
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=flat&logo=jira&logoColor=white">
 
 ### 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksb143&show_icons=true&theme=flag-india)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksb143&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksb143&layout=donut)
 ###
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ksb143&custom_title=Subin's%20Contribution%20Graph&hide_border=true&theme=github-light)
