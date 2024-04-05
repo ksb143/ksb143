@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Subin's%20GitHub&fontSize=60&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Subin's%20GitHub&fontSize=60&fontAlign=70)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbit&pause=1000&color=F79D28&random=false&width=435&lines=%ED%83%90%EA%B5%AC%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EC%88%98%EB%B9%88%EB%8B%98%EC%9D%98+%EA%B9%83+%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%A7%90;%EC%A7%B1+%EB%A9%8B%EC%A7%84+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EB%8A%94+%EA%B7%B8+%EB%82%A0%EA%B9%8C%EC%A7%80+%EB%8B%AC%EB%A6%BD%EB%8B%88%EB%8B%A4+%F0%9F%8F%83%E2%80%8D%E2%99%80%EF%B8%8F)](https://git.io/typing-svg)
 
